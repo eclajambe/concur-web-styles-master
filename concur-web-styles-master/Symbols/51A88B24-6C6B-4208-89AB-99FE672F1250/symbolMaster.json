@@ -7,8 +7,8 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1493,
-  "do_objectID": "010FD89A-C542-4927-9997-664C388E676F",
+  "changeIdentifier": 6774,
+  "do_objectID": "51A88B24-6C6B-4208-89AB-99FE672F1250",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -21,13 +21,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 549,
-    "width": 1600,
-    "x": -573,
-    "y": 53
+    "height": 24,
+    "width": 24,
+    "x": 2588,
+    "y": -718
   },
-  "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -44,39 +44,21 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "DF98FA82-3361-41B2-B6B3-385CC3EEF27B"
+      "class": "shapeGroup",
+      "id": "AA8083C2-59A5-4175-9752-A9EDFA25D50F"
     },
     {
-      "class": "group",
-      "id": "B3BF96A5-198A-42B0-8CBA-FD9BBDDEB9AB"
+      "class": "shapeGroup",
+      "id": "3C2C940D-3840-4CC5-99EC-FA357032DF55"
     },
     {
-      "class": "group",
-      "id": "35F5820E-DD3F-4B6F-BA81-4B0491592215"
-    },
-    {
-      "class": "group",
-      "id": "901D5BEA-7300-42C4-A907-CEB9D7D2A1E2"
+      "class": "symbolInstance",
+      "id": "03C1CDE5-0B6D-4AD3-973D-15EBD887F3D7"
     }
   ],
-  "layout": {
-    "_class": "layoutGrid",
-    "columnWidth": 70,
-    "drawHorizontal": false,
-    "drawHorizontalLines": false,
-    "drawVertical": true,
-    "gutterHeight": 12,
-    "gutterWidth": 27.5,
-    "guttersOutside": true,
-    "horizontalOffset": 215,
-    "isEnabled": false,
-    "numberOfColumns": 12,
-    "rowHeightMultiplication": 5,
-    "totalWidth": 1170
-  },
-  "name": "Module/Bullet Points & Quote/White",
-  "nameIsFixed": false,
+  "name": "Icon/Biz-Office-Tech/Data in Browser",
+  "nameIsFixed": true,
+  "originalObjectID": "7668286F-924E-41C9-98C0-12A588395488",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -88,7 +70,13 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "7897BDB9-003A-4DAD-915B-BA6BFD6F72CB",
+  "symbolID": "30D93E69-402A-4408-BAD1-C2D0636BB8AF",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

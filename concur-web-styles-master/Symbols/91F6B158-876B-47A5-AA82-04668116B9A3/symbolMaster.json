@@ -7,8 +7,8 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1493,
-  "do_objectID": "010FD89A-C542-4927-9997-664C388E676F",
+  "changeIdentifier": 6847,
+  "do_objectID": "91F6B158-876B-47A5-AA82-04668116B9A3",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -21,12 +21,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 549,
-    "width": 1600,
-    "x": -573,
-    "y": 53
+    "height": 24,
+    "width": 24,
+    "x": 2588,
+    "y": -686
   },
-  "hasBackgroundColor": true,
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -44,39 +44,21 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "DF98FA82-3361-41B2-B6B3-385CC3EEF27B"
+      "class": "shapeGroup",
+      "id": "7D09292B-0AF7-4A47-A57B-A0EFDD02A053"
     },
     {
-      "class": "group",
-      "id": "B3BF96A5-198A-42B0-8CBA-FD9BBDDEB9AB"
+      "class": "shapeGroup",
+      "id": "0B7C64E1-0214-49E2-9532-AFAE3C927DFD"
     },
     {
-      "class": "group",
-      "id": "35F5820E-DD3F-4B6F-BA81-4B0491592215"
-    },
-    {
-      "class": "group",
-      "id": "901D5BEA-7300-42C4-A907-CEB9D7D2A1E2"
+      "class": "symbolInstance",
+      "id": "D8209BD3-D93F-4901-9A20-BC59D6FDDA50"
     }
   ],
-  "layout": {
-    "_class": "layoutGrid",
-    "columnWidth": 70,
-    "drawHorizontal": false,
-    "drawHorizontalLines": false,
-    "drawVertical": true,
-    "gutterHeight": 12,
-    "gutterWidth": 27.5,
-    "guttersOutside": true,
-    "horizontalOffset": 215,
-    "isEnabled": false,
-    "numberOfColumns": 12,
-    "rowHeightMultiplication": 5,
-    "totalWidth": 1170
-  },
-  "name": "Module/Bullet Points & Quote/White",
-  "nameIsFixed": false,
+  "name": "Icon/Biz-Office-Tech/Desktop",
+  "nameIsFixed": true,
+  "originalObjectID": "7668286F-924E-41C9-98C0-12A588395488",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -88,7 +70,13 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "7897BDB9-003A-4DAD-915B-BA6BFD6F72CB",
+  "symbolID": "9B4E4154-67BB-4C03-B05F-6B202E8E2A0C",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
