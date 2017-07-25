@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "6736E868-220A-45ED-ADDC-B6431E5CAE7E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 109,
+    "width": 735,
+    "x": 0,
+    "y": 128
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "C7C79309-5FE1-41C9-8C8A-CA90823EE71C"
+    },
+    {
+      "class": "text",
+      "id": "D107C6A2-63D2-4C4A-88D3-C07371DE0CAA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "709E5F53-5930-467E-9158-85989DF9E5B8"
+    }
+  ],
+  "name": "Bullet Point",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

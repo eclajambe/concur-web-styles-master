@@ -1,0 +1,95 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "AA08AA85-137C-4D2B-91A2-4A2CF0B10E7D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 2000,
+    "width": 1600,
+    "x": -623,
+    "y": -850
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "FC9D97DB-6D6F-4E4C-AE6C-C0EE369785C1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A03B3FF0-3002-49EF-8AA7-2CA3D1C365E7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A62FDDFA-BA1A-4496-B840-3CB1B88C8584"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DFCE7ADF-2ABD-44A8-9274-DC4609163801"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7D8DB4B0-0D62-4BE2-9611-47B1ED034CF4"
+    }
+  ],
+  "name": "Desktop",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "align": 0,
+        "isCollapsing": 1,
+        "spacing": 0,
+        "type": 0
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

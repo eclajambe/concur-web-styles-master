@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "82CC2CCE-CF5C-40C2-B1F0-065CC61C1C95",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 41,
+    "width": 443,
+    "x": 0,
+    "y": 96
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "35A69A57-EBB9-4486-89AA-D6BF658D0F86"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4AC45A8D-8AAB-45B5-9179-4ED582B8D87B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "123AD3DE-B86E-4B67-832C-4ED00C92D630"
+    }
+  ],
+  "name": "Small Button - Right Icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "spacing": 16,
+        "type": 1
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}
