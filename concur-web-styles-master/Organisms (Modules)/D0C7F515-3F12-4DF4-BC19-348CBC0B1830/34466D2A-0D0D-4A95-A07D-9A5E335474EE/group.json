@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "34466D2A-0D0D-4A95-A07D-9A5E335474EE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 124,
+    "width": 742,
+    "x": 239,
+    "y": 52
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "40450FAD-2DF8-4DAA-9694-BA19C30D7F45"
+    },
+    {
+      "class": "text",
+      "id": "3682BA51-7046-48C7-9915-27893B93AF77"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AC4845B2-88DA-4A23-A62E-7033172D4ADB"
+    }
+  ],
+  "name": "Bullet Point",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -11,6 +11,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -22,8 +31,8 @@
     "constrainProportions": false,
     "height": 2000,
     "width": 1600,
-    "x": -623,
-    "y": -850
+    "x": -805,
+    "y": -964
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -39,19 +48,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "FC9D97DB-6D6F-4E4C-AE6C-C0EE369785C1"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A03B3FF0-3002-49EF-8AA7-2CA3D1C365E7"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A62FDDFA-BA1A-4496-B840-3CB1B88C8584"
+      "id": "7D8DB4B0-0D62-4BE2-9611-47B1ED034CF4"
     },
     {
       "class": "symbolInstance",
@@ -59,7 +60,19 @@
     },
     {
       "class": "symbolInstance",
-      "id": "7D8DB4B0-0D62-4BE2-9611-47B1ED034CF4"
+      "id": "A62FDDFA-BA1A-4496-B840-3CB1B88C8584"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A03B3FF0-3002-49EF-8AA7-2CA3D1C365E7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FC9D97DB-6D6F-4E4C-AE6C-C0EE369785C1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "42D9F595-9C21-46E0-BAB1-EDD53E02EF1C"
     }
   ],
   "name": "Desktop",

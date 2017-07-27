@@ -1,0 +1,77 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": -1,
+  "do_objectID": "BC5D263B-D76E-4EEA-B25E-B5F43B3C9308",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0.4981244339910811,
+    "width": 0.4981244339910811,
+    "x": 5.841960726744107,
+    "y": 4.152569632120875
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Fill 8",
+  "nameIsFixed": false,
+  "path": {
+    "_class": "path",
+    "isClosed": true,
+    "pointRadiusBehaviour": 1,
+    "points": [
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{-0.0058144087289999646, 0.0060000000000002274}",
+        "curveMode": 4,
+        "curveTo": "{0.010185591271001826, 0}",
+        "hasCurveFrom": true,
+        "hasCurveTo": false,
+        "point": "{0.010185591271001826, 0}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.012185591271000717, 0.00099999999999766942}",
+        "curveMode": 4,
+        "curveTo": "{-0.0018144087289986288, 0.0049999999999990052}",
+        "hasCurveFrom": true,
+        "hasCurveTo": true,
+        "point": "{0.014185591271001385, 0.0030000000000001137}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.010185591271001826, 0}",
+        "curveMode": 4,
+        "curveTo": "{0.011185591271001272, 0.00099999999999766942}",
+        "hasCurveFrom": false,
+        "hasCurveTo": true,
+        "point": "{0.010185591271001826, 0}"
+      }
+    ]
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
