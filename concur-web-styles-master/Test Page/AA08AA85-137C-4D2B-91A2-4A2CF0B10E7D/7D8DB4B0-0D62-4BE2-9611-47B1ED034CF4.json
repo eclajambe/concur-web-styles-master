@@ -31,6 +31,7 @@
   "name": "Module/Bullet Points & Quote/White",
   "nameIsFixed": false,
   "overrides": {
+    "403312C0-7E87-48F9-9808-4C7522B18CAC": "These are HTML blocks which allow us to edit the content based on our utility text classes. We can also update the bullet icons through a standard image tag. These blocks also allow for no icon.",
     "89233732-5C75-478D-93CC-96A683E970E2": {
       "3EE8A177-B67E-4D5C-902C-230691B41DC3": {
         "symbolID": "E17DA52F-DE18-4516-8BCD-6E054A57E8D0"
@@ -38,7 +39,10 @@
       "9C4AEFD0-1740-46B7-9720-95CF38E539C4": {
         "symbolID": "E17DA52F-DE18-4516-8BCD-6E054A57E8D0"
       },
-      "symbolID": "5A7272CE-09EB-47E7-80B0-3592211065F5"
+      "C61F7D47-090D-4430-8B0D-598A6575951A": {
+        "symbolID": "8E494EE1-EFE6-4EBB-B5CE-031557B3A99D"
+      },
+      "symbolID": "F12485AF-F456-4F3F-BEF9-1A439D7EFEE8"
     },
     "D490E249-E2A6-4A60-AD6D-F7C59F87F922": "Changing Header"
   },

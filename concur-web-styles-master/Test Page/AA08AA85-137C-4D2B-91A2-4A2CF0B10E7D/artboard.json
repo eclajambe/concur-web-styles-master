@@ -48,7 +48,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -69,10 +69,6 @@
     {
       "class": "symbolInstance",
       "id": "FC9D97DB-6D6F-4E4C-AE6C-C0EE369785C1"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "42D9F595-9C21-46E0-BAB1-EDD53E02EF1C"
     }
   ],
   "name": "Desktop",
