@@ -16,7 +16,7 @@
     "height": 36,
     "width": 179,
     "x": 0,
-    "y": 4012
+    "y": 3376
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -45,5 +45,11 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   }
 }

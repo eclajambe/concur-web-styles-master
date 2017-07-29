@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "33F23ED6-8399-4CD0-802C-B04769E1A6B1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 40,
+    "x": 16,
+    "y": 16
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7E9837A3-7FCA-425B-8B08-83E62828E123"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8BA3155E-BD07-46C4-8D7C-755FB5183EDD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DCD4683A-E625-445C-B57E-1ECE0C0888A2"
+    }
+  ],
+  "name": "Icon/App/Twitter",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

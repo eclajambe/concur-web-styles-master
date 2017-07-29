@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 777,
+  "changeIdentifier": 783,
   "do_objectID": "13FC242C-E658-4AE4-A7F4-DF504A631137",
   "exportOptions": {
     "_class": "exportOptions",
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
@@ -52,8 +52,8 @@
       "id": "65678A8A-E809-4D75-A9B9-F86F6BCE7AD1"
     },
     {
-      "class": "symbolInstance",
-      "id": "19823452-91DE-4542-83BD-2C230F64EBC7"
+      "class": "group",
+      "id": "A9DF584F-213C-43D0-A58C-3343FA30465B"
     }
   ],
   "name": "Badge/Left Icon",

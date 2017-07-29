@@ -26,16 +26,16 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "40310E7A-E001-443A-B14D-2E4D53A98E84"
+      "class": "group",
+      "id": "C4F4FDF6-C897-4C5F-9052-BED819BDD891"
     },
     {
-      "class": "symbolInstance",
-      "id": "0191279C-93E6-4E1D-B35C-56F1376E7368"
+      "class": "group",
+      "id": "6A13FC6B-96E8-417A-9250-C1138A1E9C8F"
     },
     {
-      "class": "symbolInstance",
-      "id": "E8913061-F055-430F-9456-7465733A913D"
+      "class": "group",
+      "id": "FF2E10FC-88AE-4211-91CF-4ECF3ED09261"
     },
     {
       "class": "text",

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 241,
+  "changeIdentifier": 290,
   "do_objectID": "4D5680FF-134B-46B5-8E77-64F72D36F998",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,7 +24,7 @@
     "height": 52,
     "width": 501,
     "x": 2450,
-    "y": 2478
+    "y": 2088
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -41,15 +41,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "35974457-7863-4923-A766-80C6A0C4D31D"
     },
     {
-      "class": "symbolInstance",
-      "id": "9C3E7513-2B17-4A66-9E6C-100E8FCF0EE2"
+      "class": "group",
+      "id": "03EA3A3B-EB96-4D41-8B4A-83510EDA8251"
     },
     {
       "class": "text",
@@ -64,8 +64,8 @@
       "id": "22E03BAC-AEB1-442D-8A7F-FBFCF49BADAE"
     },
     {
-      "class": "symbolInstance",
-      "id": "91657B8E-0028-44EA-B130-7EF44115ABB3"
+      "class": "group",
+      "id": "849B9321-E538-4AEB-AF12-FAA89156C585"
     }
   ],
   "name": "List/Grid Header - 3 Columns",
@@ -83,6 +83,12 @@
     "startDecorationType": 0
   },
   "symbolID": "52236320-213D-4665-942E-15FA53E5EC10",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

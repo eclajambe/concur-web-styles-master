@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 98,
+  "changeIdentifier": 104,
   "do_objectID": "7438D61C-D1BF-4959-882F-57F43925AD9F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -52,8 +52,8 @@
       "id": "31714A05-2F1E-45CA-BE9F-25713EAE73B1"
     },
     {
-      "class": "symbolInstance",
-      "id": "B64F6753-9818-491B-87B5-4B58C395D53D"
+      "class": "group",
+      "id": "50D6C8C6-F0E1-4D4A-A8C9-3873A09C6CC9"
     }
   ],
   "name": "Button/Icon",

@@ -34,20 +34,20 @@
       "id": "E738D83D-FF0C-418B-AE16-69A29F404C4C"
     },
     {
-      "class": "symbolInstance",
-      "id": "2F57F73F-3B2F-4D8B-B53F-F7D3DCC6FFA4"
+      "class": "group",
+      "id": "0960B7E2-4BAA-47F3-9CCD-F666FD7B0448"
     },
     {
-      "class": "symbolInstance",
-      "id": "CB477795-F182-420C-B217-7866991ABBC4"
+      "class": "group",
+      "id": "19997CE8-BDA4-4150-9877-28A66D478CB3"
     },
     {
-      "class": "symbolInstance",
-      "id": "1A021C84-589F-466A-8780-49B62FFD6DB8"
+      "class": "group",
+      "id": "0D4331C1-90E7-40E7-BD81-681BF2CC6DC7"
     },
     {
-      "class": "symbolInstance",
-      "id": "91B07005-4C52-466D-B177-82EC538AB148"
+      "class": "group",
+      "id": "6E270F51-0DC2-4BA8-8E6F-B070FDCA1941"
     }
   ],
   "name": "Checkbox Search",

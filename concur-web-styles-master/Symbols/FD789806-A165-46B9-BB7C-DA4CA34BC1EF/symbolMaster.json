@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 98,
+  "changeIdentifier": 104,
   "do_objectID": "FD789806-A165-46B9-BB7C-DA4CA34BC1EF",
   "exportOptions": {
     "_class": "exportOptions",
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
@@ -52,8 +52,8 @@
       "id": "31615390-BB7F-418B-A632-6D9EC86D1CE0"
     },
     {
-      "class": "symbolInstance",
-      "id": "5E5AA3FB-624D-45CA-864F-89CE8A17FD26"
+      "class": "group",
+      "id": "BC4689D4-8703-4C8B-873D-0280B349456E"
     }
   ],
   "name": "Button/Icon - Rounded",

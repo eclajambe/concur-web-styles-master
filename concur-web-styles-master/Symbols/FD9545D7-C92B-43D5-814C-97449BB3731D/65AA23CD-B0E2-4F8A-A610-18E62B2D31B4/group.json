@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "65AA23CD-B0E2-4F8A-A610-18E62B2D31B4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 205,
+    "x": 229,
+    "y": 89
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "183665DD-4C01-4E1A-905A-1819D1E00291"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5A8C5555-D665-4321-A9CB-CEDB2E91A63F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B4A001F0-20AD-4C87-BD89-9DE8FC2D523D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3367E8A3-2683-4FC5-AB2B-0C2C51BE605B"
+    }
+  ],
+  "name": "Social Icons",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

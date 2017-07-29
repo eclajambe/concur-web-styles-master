@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "428F16A9-8901-4EB5-9F47-3A5262ECABFC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 290,
+    "x": 229,
+    "y": 20
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "49080CC4-D239-4C65-98E7-D8EB24572235"
+    },
+    {
+      "class": "text",
+      "id": "28E07A6E-DDD8-42E1-BD32-6B8E20CEAD81"
+    },
+    {
+      "class": "bitmap",
+      "id": "84C57E53-2F32-4578-B43B-E55490B42B31"
+    }
+  ],
+  "name": "SAP Text",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

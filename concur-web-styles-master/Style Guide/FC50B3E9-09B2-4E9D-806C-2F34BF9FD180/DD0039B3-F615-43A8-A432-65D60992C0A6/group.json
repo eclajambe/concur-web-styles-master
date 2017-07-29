@@ -34,20 +34,20 @@
       "id": "1C28161A-F924-4B32-83DD-4630AEAF2471"
     },
     {
-      "class": "symbolInstance",
-      "id": "0CB4A172-7111-452A-BE78-E9C1E4B850B5"
+      "class": "group",
+      "id": "6FFFED24-61C6-4DD7-97ED-BB0594BCD1D9"
     },
     {
-      "class": "symbolInstance",
-      "id": "59D67A4A-2B76-4AED-A238-8BA2CEA66EFF"
+      "class": "group",
+      "id": "684F8E18-D9EA-4C07-BB58-A71750B62085"
     },
     {
-      "class": "symbolInstance",
-      "id": "9A4AAC84-2B80-486B-B20C-9B4C198021FC"
+      "class": "group",
+      "id": "AD2158FC-240E-43A7-940D-5EF9E9C5C856"
     },
     {
-      "class": "symbolInstance",
-      "id": "7F8D3F11-1861-4FBE-B388-C362A24F2D3A"
+      "class": "group",
+      "id": "674F2EB6-F74B-47A1-95E8-9CC9C16A0684"
     }
   ],
   "name": "Check Icon Search",

@@ -30,24 +30,24 @@
       "id": "502B6072-4BFD-4787-89D6-2C1AFB47A898"
     },
     {
-      "class": "symbolInstance",
-      "id": "98E5B087-6D1C-4D10-B405-A7C82F558001"
+      "class": "group",
+      "id": "E4CDCB7A-B963-47F9-B600-9CE2BC499FFA"
     },
     {
-      "class": "symbolInstance",
-      "id": "F3F2CF19-3A7F-4F86-8A1C-9C1989BDF49D"
+      "class": "group",
+      "id": "4341F858-81A5-4787-AA7A-8CF5B3D247E9"
     },
     {
-      "class": "symbolInstance",
-      "id": "F2697E07-3BF7-4A74-BEF6-D3B9F1241076"
+      "class": "group",
+      "id": "DADFCC5E-7EFE-45EC-8176-7116901D2753"
     },
     {
-      "class": "symbolInstance",
-      "id": "1E55C9FA-7F09-428E-ADD9-2821A59F07EB"
+      "class": "group",
+      "id": "EED4755F-AD2F-495D-AB2A-8AC3DDB3192F"
     },
     {
-      "class": "symbolInstance",
-      "id": "6D3D737B-D28B-466C-B137-CB62BAD767AE"
+      "class": "group",
+      "id": "B4FCEBBD-113F-4497-BCEE-40F8BBA461C9"
     }
   ],
   "name": "Dropdown",

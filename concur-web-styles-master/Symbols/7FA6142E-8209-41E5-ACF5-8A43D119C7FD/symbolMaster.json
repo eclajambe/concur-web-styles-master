@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 266,
+  "changeIdentifier": 278,
   "do_objectID": "7FA6142E-8209-41E5-ACF5-8A43D119C7FD",
   "exportOptions": {
     "_class": "exportOptions",
@@ -41,23 +41,23 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "7CF4FC69-2797-4F05-A2B3-FCEF42656E76"
     },
     {
-      "class": "symbolInstance",
-      "id": "1507EF10-5EDF-404D-9A88-2B1169BDE25B"
+      "class": "group",
+      "id": "9C863CA7-C6BC-4407-B71F-E557D50996ED"
     },
     {
       "class": "symbolInstance",
       "id": "3324DFD8-09A8-4E06-8C10-CBAF5EE3AC22"
     },
     {
-      "class": "symbolInstance",
-      "id": "C82DCD6C-9677-4863-8D07-7EFA68791EB8"
+      "class": "group",
+      "id": "87F60621-3D64-48F2-A792-E8714542B66E"
     }
   ],
   "name": "Field/Left Icon",

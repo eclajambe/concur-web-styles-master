@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "do_objectID": "953264E2-7435-402D-989E-ABDC1E0B0AAA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 24,
+    "x": 16,
+    "y": 16
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "997E0559-D8E3-48C8-B010-F4FDE314A3D0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A50EC61F-E52E-4F18-848A-53D5F82C40C3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1BD5F795-2D57-4CFD-B1DF-2E4178A4A065"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A40C5B8E-8BC9-43F3-8DDB-DB74097F451F"
+    }
+  ],
+  "name": "Left Icon",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

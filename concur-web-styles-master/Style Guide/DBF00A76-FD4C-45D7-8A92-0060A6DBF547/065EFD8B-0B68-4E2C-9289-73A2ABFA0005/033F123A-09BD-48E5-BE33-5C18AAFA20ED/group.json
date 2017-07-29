@@ -30,32 +30,32 @@
       "id": "1744DFAE-E07F-4FF2-B4F8-25A87FA32DF2"
     },
     {
-      "class": "symbolInstance",
-      "id": "FF50F7E9-01AC-481B-A2E9-10F7B9354066"
+      "class": "group",
+      "id": "C7D239AE-06CD-490C-803E-DAC9F4DB3607"
     },
     {
-      "class": "symbolInstance",
-      "id": "7C2DBBB9-E557-4578-B7DD-C26921368B41"
+      "class": "group",
+      "id": "D4D40CFB-7D7F-47F5-A45D-0C3D60BB853C"
     },
     {
-      "class": "symbolInstance",
-      "id": "20A0928F-9AF7-4F68-B910-3768A7B24762"
+      "class": "group",
+      "id": "16B29C3A-C930-465F-8F9F-9EAE75B16B5E"
     },
     {
-      "class": "symbolInstance",
-      "id": "E94B7303-7034-464F-9CF0-95F580063EC1"
+      "class": "group",
+      "id": "E80DBE18-9294-440B-9FD3-19F1D3D93E9A"
     },
     {
-      "class": "symbolInstance",
-      "id": "2EA9DD47-4C05-46EA-A58F-7D558506C0AC"
+      "class": "group",
+      "id": "65B1C173-C6F5-4C6C-A484-546E4BEAE3AB"
     },
     {
-      "class": "symbolInstance",
-      "id": "53FCAB75-EB1F-431A-BD48-13E3AA478768"
+      "class": "group",
+      "id": "4B3E5FC4-1311-435E-9DBE-DF1E0FF6EBA3"
     },
     {
-      "class": "symbolInstance",
-      "id": "32FFD350-BE76-4892-A57B-0CF294222C95"
+      "class": "group",
+      "id": "7F48EF43-3A4C-43B6-BF7F-B3688F507D31"
     }
   ],
   "name": "Controls",

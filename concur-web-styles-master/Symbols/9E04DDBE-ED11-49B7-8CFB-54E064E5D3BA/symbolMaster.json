@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 998,
+  "changeIdentifier": 1010,
   "do_objectID": "9E04DDBE-ED11-49B7-8CFB-54E064E5D3BA",
   "exportOptions": {
     "_class": "exportOptions",
@@ -41,23 +41,23 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "3F4F566B-47CE-4BB3-A313-533F567A1B0E"
     },
     {
-      "class": "symbolInstance",
-      "id": "8193CF62-8CA5-42D1-8479-D0416C83B6A1"
+      "class": "group",
+      "id": "82B586D5-8F8A-4298-B617-D00DB8F34F7E"
     },
     {
       "class": "symbolInstance",
       "id": "01B3CF84-B693-4124-83E1-6FBF1F20D8FD"
     },
     {
-      "class": "symbolInstance",
-      "id": "49B80546-147A-428C-ADE6-10EE6B9AE8BF"
+      "class": "group",
+      "id": "4B9FF79B-6FE7-4AE5-A6E4-45A5F3EBA71A"
     }
   ],
   "name": "Button/Small - Left Icon",

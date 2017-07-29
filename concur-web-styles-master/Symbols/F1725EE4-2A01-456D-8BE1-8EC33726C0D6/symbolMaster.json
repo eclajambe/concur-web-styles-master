@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 218,
+  "changeIdentifier": 224,
   "do_objectID": "F1725EE4-2A01-456D-8BE1-8EC33726C0D6",
   "exportOptions": {
     "_class": "exportOptions",
@@ -41,15 +41,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "31D7DDC8-3B49-4DC2-8196-87E024F6998F"
     },
     {
-      "class": "symbolInstance",
-      "id": "FA1E47DE-08C6-4D9E-8AA7-DAAB9A026363"
+      "class": "group",
+      "id": "D30F9894-D987-4FFE-97ED-644610356520"
     }
   ],
   "name": "Input/Checkbox",

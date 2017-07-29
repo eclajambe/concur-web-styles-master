@@ -34,56 +34,56 @@
       "id": "BB8B4BC9-6382-40AF-9095-45EE3F41EA84"
     },
     {
-      "class": "symbolInstance",
-      "id": "5C2961B1-E21A-40F8-957F-DB1240168AEE"
+      "class": "group",
+      "id": "0F86E15E-23E7-42A6-BA47-680066A46FB1"
     },
     {
-      "class": "symbolInstance",
-      "id": "A1422314-3A03-4C6A-A716-9EAC4C5EAE04"
+      "class": "group",
+      "id": "87614DF7-083F-440D-9564-6003A9BCD888"
     },
     {
-      "class": "symbolInstance",
-      "id": "4AE440CC-218B-46E0-AFBE-93B7B681263A"
+      "class": "group",
+      "id": "4B0DEE9E-81A0-4852-9FDF-DA0CC356C45A"
     },
     {
-      "class": "symbolInstance",
-      "id": "22B061F7-C440-46EC-9A3B-89A7F76045DE"
+      "class": "group",
+      "id": "03D5AB18-F2F8-49F5-A1D4-4A2EB045240F"
     },
     {
-      "class": "symbolInstance",
-      "id": "7EC0E0ED-108B-4DF2-9FE0-9068650A6733"
+      "class": "group",
+      "id": "37625193-55B2-45A6-9CE3-350C0DA9FFC5"
     },
     {
-      "class": "symbolInstance",
-      "id": "8B027B74-437C-4468-BECB-65E92FF3083C"
+      "class": "group",
+      "id": "B028287F-7DE0-4E74-956A-0BE84AF63D74"
     },
     {
-      "class": "symbolInstance",
-      "id": "4FD54C46-242A-4A8E-A52F-8714D86A3EB7"
+      "class": "group",
+      "id": "AF126934-433C-4E5D-92B7-8D26F8E2B223"
     },
     {
       "class": "group",
       "id": "194B9F15-F8AE-4926-A280-D5D4B4FB4168"
     },
     {
-      "class": "symbolInstance",
-      "id": "9464FB40-5733-4B86-89E2-CDA7100800C4"
+      "class": "group",
+      "id": "E95B3F64-C1AE-4FD7-8D01-A9A03D08DA29"
     },
     {
-      "class": "symbolInstance",
-      "id": "DEF1E1DF-CFF5-4E62-96F3-7BE1E9A43684"
+      "class": "group",
+      "id": "9E8E8BC6-3380-47F4-9E8D-B20EAA7E228E"
     },
     {
-      "class": "symbolInstance",
-      "id": "7895B237-49D2-4C40-B28B-96A04F2812FD"
+      "class": "group",
+      "id": "24D4614D-86DD-4262-A771-6E4F8861EE5C"
     },
     {
-      "class": "symbolInstance",
-      "id": "AFA7215A-B46D-4BC8-9023-1CEC0C6B5B23"
+      "class": "group",
+      "id": "F16E8AD1-AB0F-4C38-BD5A-3A925CF3659C"
     },
     {
-      "class": "symbolInstance",
-      "id": "17337302-93F1-423B-8A4B-7ECC53398A07"
+      "class": "group",
+      "id": "49621DFD-30AA-4543-9D99-9A845FECAD4C"
     }
   ],
   "name": "Applications",

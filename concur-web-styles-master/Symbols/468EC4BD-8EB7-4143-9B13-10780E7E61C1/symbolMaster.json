@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 178,
+  "changeIdentifier": 184,
   "do_objectID": "468EC4BD-8EB7-4143-9B13-10780E7E61C1",
   "exportOptions": {
     "_class": "exportOptions",
@@ -41,11 +41,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "80FACE07-8F01-4416-818F-4042A30A29F8"
+      "class": "group",
+      "id": "725EF5A7-8269-40DA-8E65-49BD54FC7D28"
     },
     {
       "class": "group",

@@ -88,7 +88,8 @@
           },
           "modelID": "viewConstraints_ec3e9c09-eb61-482d-87bb-ad5e157b1f72",
           "model_class": "ADModelViewConstraints",
-          "model_version": 0.1
+          "model_version": 0.1,
+          "scaleFactor": 1
         },
         "isAutoWidth": 1
       }
