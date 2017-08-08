@@ -65,8 +65,8 @@
                 "_class": "color",
                 "alpha": 0.5,
                 "blue": 0.2,
-                "green": 0,
-                "red": 0.04705882352941178
+                "green": 0.2,
+                "red": 0.2
               },
               "position": 0
             },

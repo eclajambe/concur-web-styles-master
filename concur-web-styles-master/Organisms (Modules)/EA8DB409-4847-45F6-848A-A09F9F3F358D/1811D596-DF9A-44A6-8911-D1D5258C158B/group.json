@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "1811D596-DF9A-44A6-8911-D1D5258C158B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 205,
+    "x": 229,
+    "y": 89
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "18FAB810-020F-413C-B087-8E1BCFF62C5C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DAC55DE4-A6F3-4B60-9415-7666B46DC2EF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F4073700-86E4-4CCC-BD97-85EF7B9963D8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B0D9096A-45D3-4218-B1ED-0528638389B0"
+    }
+  ],
+  "name": "Social Icons",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

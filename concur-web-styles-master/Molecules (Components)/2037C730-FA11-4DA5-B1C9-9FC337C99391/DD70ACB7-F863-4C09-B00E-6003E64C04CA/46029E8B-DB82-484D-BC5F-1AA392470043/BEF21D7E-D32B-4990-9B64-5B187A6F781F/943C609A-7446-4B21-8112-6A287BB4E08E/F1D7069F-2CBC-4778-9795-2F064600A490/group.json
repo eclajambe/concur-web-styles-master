@@ -26,20 +26,20 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "5B295261-6271-4C5D-80D0-0353A6E73AD7"
+      "class": "group",
+      "id": "E113C176-CEEB-4C00-B081-890CDDF2F20C"
     },
     {
-      "class": "symbolInstance",
-      "id": "51EFF60A-6DCB-47DA-AB55-FAA788AF7F78"
+      "class": "group",
+      "id": "70B72302-F1D3-4A0F-9B75-4A1BC07618EA"
     },
     {
-      "class": "symbolInstance",
-      "id": "F0B5B75D-F318-4C22-B1B1-A1BDD5AF3FAE"
+      "class": "group",
+      "id": "33ADA50B-6D3C-4964-9741-260150D6301E"
     },
     {
-      "class": "symbolInstance",
-      "id": "709EC1EB-95EE-4433-BA93-97FF99EE6450"
+      "class": "group",
+      "id": "EDE36233-4188-46C1-A333-51C841CF8357"
     },
     {
       "class": "group",

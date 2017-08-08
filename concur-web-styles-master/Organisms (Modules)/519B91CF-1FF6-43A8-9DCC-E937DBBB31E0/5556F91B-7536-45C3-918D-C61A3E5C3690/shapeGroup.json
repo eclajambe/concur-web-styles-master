@@ -1,0 +1,128 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "5556F91B-7536-45C3-918D-C61A3E5C3690",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 33.24056572865333,
+    "width": 140.3367406248406,
+    "x": 228.8200670439944,
+    "y": 20.89840516481934
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "F20807E9-E14F-484B-BB3A-689C94946EB0"
+    },
+    {
+      "class": "shapePath",
+      "id": "2E7ADFAF-9E5A-4349-AB56-AB558362B1BC"
+    },
+    {
+      "class": "shapePath",
+      "id": "0061BE0E-B494-4273-8711-D73F4FBC7CFE"
+    },
+    {
+      "class": "shapePath",
+      "id": "AAC17DBB-9998-466E-8C15-F68DE5E02DEF"
+    },
+    {
+      "class": "shapePath",
+      "id": "8D8ECD92-E9BB-491D-AED4-CD5ADC37DA47"
+    },
+    {
+      "class": "shapePath",
+      "id": "E3499EBF-8D70-4858-BCB1-772372E7DEDF"
+    },
+    {
+      "class": "shapePath",
+      "id": "D9D3482C-5D4F-4498-B7A8-BA410DE5C4F3"
+    },
+    {
+      "class": "shapePath",
+      "id": "7ED4A291-7B7D-442F-9BAD-DC362815F93C"
+    },
+    {
+      "class": "shapePath",
+      "id": "CB0C78D5-437F-4DA8-822E-0EF4F214216F"
+    },
+    {
+      "class": "shapePath",
+      "id": "47F31294-7047-4134-8956-BA5F42892029"
+    },
+    {
+      "class": "shapePath",
+      "id": "708642AE-482F-4620-9333-E9AD303B6E5D"
+    },
+    {
+      "class": "shapePath",
+      "id": "A660BA84-50C3-4982-A57C-7B82E945FD55"
+    },
+    {
+      "class": "shapePath",
+      "id": "B03E3FD2-D8D5-48BE-BB77-67CDEF808572"
+    },
+    {
+      "class": "shapePath",
+      "id": "D315F207-D701-424E-9A49-B301D0194F7C"
+    },
+    {
+      "class": "shapePath",
+      "id": "B68C8A50-8ADE-4B16-944B-65103F7C4C82"
+    }
+  ],
+  "name": "concur-logo",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9954422116279602,
+          "green": 0.9956298470497131,
+          "red": 0.9955094456672668
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "windingRule": 1
+}

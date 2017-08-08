@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "672E48CE-1F0F-4D19-A192-EE65EA3ED656",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 290,
+    "x": 229,
+    "y": 20
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "70EB79A7-34C5-4515-8AEB-DAEB873425B8"
+    },
+    {
+      "class": "text",
+      "id": "BF84FDBD-414E-406F-82E9-4526CC62DE7F"
+    },
+    {
+      "class": "bitmap",
+      "id": "C85DCE67-63BC-4D78-ACBA-6F4A812A3528"
+    }
+  ],
+  "name": "SAP Text",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

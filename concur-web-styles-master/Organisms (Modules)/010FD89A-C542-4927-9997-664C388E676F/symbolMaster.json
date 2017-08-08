@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1817,
+  "changeIdentifier": 5152,
   "do_objectID": "010FD89A-C542-4927-9997-664C388E676F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,10 +24,10 @@
     "height": 549,
     "width": 1600,
     "x": -573,
-    "y": 53
+    "y": -47
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -44,20 +44,16 @@
   "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "shapeGroup",
+      "id": "96298CF8-6A81-4BD1-B814-AC310FB0306E"
+    },
+    {
       "class": "group",
       "id": "DF98FA82-3361-41B2-B6B3-385CC3EEF27B"
     },
     {
       "class": "group",
-      "id": "B3BF96A5-198A-42B0-8CBA-FD9BBDDEB9AB"
-    },
-    {
-      "class": "group",
-      "id": "35F5820E-DD3F-4B6F-BA81-4B0491592215"
-    },
-    {
-      "class": "group",
-      "id": "901D5BEA-7300-42C4-A907-CEB9D7D2A1E2"
+      "id": "8D436A74-7916-443F-8749-1468BAFF6D08"
     }
   ],
   "layout": {
@@ -77,7 +73,7 @@
   },
   "name": "Module/Bullet Points & Quote/White",
   "nameIsFixed": false,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -89,6 +85,12 @@
     "startDecorationType": 0
   },
   "symbolID": "7897BDB9-003A-4DAD-915B-BA6BFD6F72CB",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

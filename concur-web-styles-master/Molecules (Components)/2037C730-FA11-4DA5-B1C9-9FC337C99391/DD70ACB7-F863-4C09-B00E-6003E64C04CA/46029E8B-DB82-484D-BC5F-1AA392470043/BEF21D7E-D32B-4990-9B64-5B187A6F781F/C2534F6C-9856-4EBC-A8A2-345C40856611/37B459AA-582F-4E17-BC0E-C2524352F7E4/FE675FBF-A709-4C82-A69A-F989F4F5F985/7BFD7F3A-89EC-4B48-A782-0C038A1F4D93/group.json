@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "do_objectID": "7BFD7F3A-89EC-4B48-A782-0C038A1F4D93",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 63,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "AA168970-C945-440B-831A-C95345817335"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "870A3681-4B63-4CC2-9F3D-1EE20081CD9F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F1E5C1F3-E174-41FA-8CF2-B222370A586E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "12BC0FFC-64F7-474E-8AD0-A40D56AD69FF"
+    }
+  ],
+  "name": "Switch",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -16,7 +16,7 @@
     "height": 68,
     "width": 248,
     "x": 0,
-    "y": 103
+    "y": 106
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -30,20 +30,20 @@
       "id": "FA264B6E-98CA-47F2-8BAF-4956B7227858"
     },
     {
-      "class": "symbolInstance",
-      "id": "174E33B7-8C11-4665-8128-1EC890B5A8AF"
+      "class": "group",
+      "id": "9316382C-E2FF-4E03-8F15-E28935FA7A3B"
     },
     {
-      "class": "symbolInstance",
-      "id": "E7A271C2-81D3-43E0-9B71-DA6F8A4EC962"
+      "class": "group",
+      "id": "67187B49-5113-4592-91FB-AA5CA401CC97"
     },
     {
-      "class": "symbolInstance",
-      "id": "F4DE9B50-3024-475E-8A41-465F34328571"
+      "class": "group",
+      "id": "139E4F9A-4E9F-445C-B0F1-25663D8934C7"
     },
     {
-      "class": "symbolInstance",
-      "id": "34BFD015-B2F2-46EB-A841-D371C1708505"
+      "class": "group",
+      "id": "F98C0682-7178-4F82-AB3E-9E121102DCAA"
     }
   ],
   "name": "Multi Select",

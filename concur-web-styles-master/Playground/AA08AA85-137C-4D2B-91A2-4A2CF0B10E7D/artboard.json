@@ -48,12 +48,8 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "7D8DB4B0-0D62-4BE2-9611-47B1ED034CF4"
-    },
     {
       "class": "symbolInstance",
       "id": "DFCE7ADF-2ABD-44A8-9274-DC4609163801"
@@ -69,11 +65,23 @@
     {
       "class": "symbolInstance",
       "id": "FC9D97DB-6D6F-4E4C-AE6C-C0EE369785C1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "45B7D16E-B80F-4B1D-AADB-2DCAE3D58766"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "23AEE624-96C3-410C-95D9-9A3F93393C11"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F1C13BBB-A654-462E-8C2A-5F14AC2E040A"
     }
   ],
   "name": "Desktop",
   "nameIsFixed": false,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

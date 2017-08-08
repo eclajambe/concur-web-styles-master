@@ -33,6 +33,10 @@
   "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "artboard",
+      "id": "71FB411F-3FD0-43AF-B644-094BD1F9C5DE"
+    },
+    {
       "class": "symbolMaster",
       "id": "E9332C40-DC2B-40E1-AE74-D71DBBF9160C"
     },
@@ -79,8 +83,31 @@
     {
       "class": "symbolMaster",
       "id": "2B9D240A-2061-45E4-A366-4C98DDEA2F4C"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "EA8DB409-4847-45F6-848A-A09F9F3F358D"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "519B91CF-1FF6-43A8-9DCC-E937DBBB31E0"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 70,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 27.5,
+    "guttersOutside": true,
+    "horizontalOffset": 360,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1170
+  },
   "name": "Organisms (Modules)",
   "nameIsFixed": true,
   "resizingConstraint": 63,

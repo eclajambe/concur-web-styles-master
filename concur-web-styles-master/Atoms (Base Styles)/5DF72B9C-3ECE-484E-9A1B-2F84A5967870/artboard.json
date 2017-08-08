@@ -45,7 +45,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
@@ -107,7 +107,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1140
   },
-  "name": "👉🏻 Adjust Other Stuff Here!",
+  "name": "Shadows and Overlays",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -142,6 +142,7 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      1508
     ]
   }
 }

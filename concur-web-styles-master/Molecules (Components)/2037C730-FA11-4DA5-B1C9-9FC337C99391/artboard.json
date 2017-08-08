@@ -38,7 +38,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 2610,
+    "height": 1523,
     "width": 1440,
     "x": -2104,
     "y": -298
@@ -99,6 +99,7 @@
     "_class": "rulerData",
     "base": 39,
     "guides": [
+      63
     ]
   }
 }
