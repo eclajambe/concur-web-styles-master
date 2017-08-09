@@ -39,33 +39,7 @@
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
-    "_class": "style",
-    "endDecorationType": 0,
-    "innerShadows": [
-      {
-        "_class": "innerShadow",
-        "blurRadius": 0,
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "isEnabled": true,
-        "offsetX": 0,
-        "offsetY": -1,
-        "spread": 0
-      }
-    ],
-    "miterLimit": 10,
-    "sharedObjectID": "EDAFC8CD-C70A-4EF7-AC25-64AAFA1E586C",
-    "startDecorationType": 0
+    "sharedObjectID": "EDAFC8CD-C70A-4EF7-AC25-64AAFA1E586C"
   },
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
