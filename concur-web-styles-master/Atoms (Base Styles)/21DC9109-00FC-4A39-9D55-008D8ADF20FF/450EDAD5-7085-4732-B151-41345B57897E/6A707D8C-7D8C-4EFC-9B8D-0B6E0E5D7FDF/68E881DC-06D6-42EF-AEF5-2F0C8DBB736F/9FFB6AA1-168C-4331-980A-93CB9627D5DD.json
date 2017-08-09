@@ -41,6 +41,7 @@
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
+<<<<<<< HEAD
     "_class": "style",
     "endDecorationType": 0,
     "miterLimit": 10,
@@ -63,6 +64,9 @@
       },
       "verticalAlignment": 0
     }
+=======
+    "sharedObjectID": "25313EC9-DA2C-413A-98D8-F4DD899906C0"
+>>>>>>> 5ce6f9cfe3587e5427874c2d0f6de43a44fb19c9
   },
   "textBehaviour": 0,
   "userInfo": {

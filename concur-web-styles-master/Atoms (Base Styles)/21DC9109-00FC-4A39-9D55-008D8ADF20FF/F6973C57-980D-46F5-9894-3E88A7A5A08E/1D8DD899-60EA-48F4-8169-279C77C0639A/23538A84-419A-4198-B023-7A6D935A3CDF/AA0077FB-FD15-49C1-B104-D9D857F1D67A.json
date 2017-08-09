@@ -41,6 +41,7 @@
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
+<<<<<<< HEAD
     "_class": "style",
     "contextSettings": {
       "_class": "graphicsContextSettings",
@@ -69,6 +70,9 @@
       },
       "verticalAlignment": 0
     }
+=======
+    "sharedObjectID": "197BA85B-D184-48B5-8628-D6A9C222B3F5"
+>>>>>>> 5ce6f9cfe3587e5427874c2d0f6de43a44fb19c9
   },
   "textBehaviour": 0,
   "userInfo": {

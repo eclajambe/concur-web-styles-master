@@ -39,6 +39,7 @@
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
+<<<<<<< HEAD:concur-web-styles-master/Organisms (Modules)/EA8DB409-4847-45F6-848A-A09F9F3F358D/1811D596-DF9A-44A6-8911-D1D5258C158B/76A08A36-2E29-4261-A955-C15E06392546/5FFB713B-425B-429A-90F1-E810BBA9C342/shapeGroup.json
     "_class": "style",
     "endDecorationType": 0,
     "fills": [
@@ -61,6 +62,9 @@
     ],
     "miterLimit": 10,
     "startDecorationType": 0
+=======
+    "sharedObjectID": "93CA5144-1D97-4262-BFA8-BB62D3C73233"
+>>>>>>> 5ce6f9cfe3587e5427874c2d0f6de43a44fb19c9:concur-web-styles-master/Symbols/2E1D8DD7-38E4-42D6-BD65-90EF3F3FA23A/2927EC41-94DD-4C81-AD23-7420CE169D9D/99996AA1-CED4-4D0C-8705-02C5273D157C/shapeGroup.json
   },
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
