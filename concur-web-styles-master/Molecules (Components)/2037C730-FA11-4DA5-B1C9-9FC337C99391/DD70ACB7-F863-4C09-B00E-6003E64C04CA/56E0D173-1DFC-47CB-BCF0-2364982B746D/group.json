@@ -13,26 +13,18 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 222,
-    "width": 1280,
+    "height": 90,
+    "width": 200,
     "x": 0,
-    "y": 538
+    "y": 0
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "171E21C6-16B8-4E28-A5F8-405281D3B10A"
-    },
-    {
-      "class": "group",
-      "id": "02D4B3CA-EFB7-454E-A5F7-DDFA25BA7ED0"
-    },
     {
       "class": "group",
       "id": "7EFB75F9-183D-4F98-9D12-5C7AA110C53E"
@@ -42,7 +34,7 @@
       "id": "783A131F-B99A-4372-B5AB-367CC7D45BAC"
     }
   ],
-  "name": "Field with Labels",
+  "name": "Form Fields",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

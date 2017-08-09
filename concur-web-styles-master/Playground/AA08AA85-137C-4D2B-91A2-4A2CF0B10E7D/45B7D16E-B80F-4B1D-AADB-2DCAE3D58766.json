@@ -30,6 +30,14 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Module/Bullet Points & Quote/White",
   "nameIsFixed": false,
+  "overrides": {
+    "89233732-5C75-478D-93CC-96A683E970E2": {
+      "0563415D-DB29-4A54-9BC0-E3C41CB31DF6": {
+        "symbolID": "8E494EE1-EFE6-4EBB-B5CE-031557B3A99D"
+      },
+      "symbolID": "54BFB415-DF9C-4CEC-B545-E8DE5BC33A43"
+    }
+  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

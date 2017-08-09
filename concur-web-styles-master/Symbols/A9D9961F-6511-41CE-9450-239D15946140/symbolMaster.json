@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 38,
+  "changeIdentifier": 289,
   "do_objectID": "A9D9961F-6511-41CE-9450-239D15946140",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,7 +24,7 @@
     "height": 40,
     "width": 200,
     "x": 2004,
-    "y": 318
+    "y": 858
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -52,7 +52,7 @@
       "id": "45CC6644-D760-4D29-B02E-686E15D30E36"
     }
   ],
-  "name": "Mixin/Container/Field/Hover",
+  "name": "Mixin/Container/Field/Focus",
   "nameIsFixed": true,
   "originalObjectID": "A9D9961F-6511-41CE-9450-239D15946140",
   "resizesContent": false,
@@ -67,6 +67,12 @@
     "startDecorationType": 0
   },
   "symbolID": "6D1A75DD-6988-4396-AC1E-AF5386C38B6F",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

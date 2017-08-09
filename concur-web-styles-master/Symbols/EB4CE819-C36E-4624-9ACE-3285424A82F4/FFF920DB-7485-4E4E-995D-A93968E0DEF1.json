@@ -16,7 +16,7 @@
     "height": 20,
     "width": 89,
     "x": 16,
-    "y": 10.5
+    "y": 10
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -49,6 +49,53 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "bottom": {
+            "constant": 11,
+            "enabled": 1,
+            "modelID": "constraint_f59dfccc-d333-415f-9091-0f0b0c913a5b",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "centerHorizontally": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_0fd92387-cca8-415f-9ad3-f8def2ed8b9d",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "left": {
+            "constant": 16,
+            "enabled": 1,
+            "modelID": "constraint_8ec1cf91-43e8-4316-8292-c09c90a5ea5a",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_5b818736-a877-4272-b6ea-8e1b99c77134",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "right": {
+            "constant": 16,
+            "enabled": 1,
+            "modelID": "constraint_c18c2592-20d1-4749-a60c-445bef2d4eca",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "scaleFactor": 1,
+          "top": {
+            "constant": 10,
+            "enabled": 1,
+            "modelID": "constraint_4a6c0069-5cf3-44de-8bfc-070c33cade0c",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        }
       }
     }
   },
