@@ -31,8 +31,8 @@
     "constrainProportions": false,
     "height": 740,
     "width": 1485,
-    "x": 0,
-    "y": 0
+    "x": -4680,
+    "y": -3935
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -48,35 +48,35 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "1DCEA292-899C-425F-8380-F06C1349794E"
+      "class": "symbolInstance",
+      "id": "5BA2A82E-A3F8-4A63-B4E7-CF905CD47E8A"
     },
     {
-      "class": "group",
-      "id": "FBFF6314-5603-47F7-9005-E29DA2F9F725"
+      "class": "symbolInstance",
+      "id": "4143D186-DF74-402A-A074-4F5EB4676C68"
     },
     {
-      "class": "group",
-      "id": "2CF4E150-1704-4B20-ABD9-B58C5BF261A9"
+      "class": "symbolInstance",
+      "id": "EF117F8F-5CDD-4188-BBAF-79257A15DE17"
     },
     {
-      "class": "group",
-      "id": "0E494260-1C90-4D29-A7DD-798091FF9283"
+      "class": "symbolInstance",
+      "id": "C7B463BD-3131-4F47-8DC9-829792AF79FF"
     },
     {
-      "class": "group",
-      "id": "BC4D0564-5647-4BF8-8250-A29D69D8A5CF"
+      "class": "symbolInstance",
+      "id": "278703E5-71AE-4CCD-B710-E5CE0526F105"
     },
     {
-      "class": "group",
-      "id": "55AF8377-9524-4DEA-AC9A-969DBC59F15F"
+      "class": "symbolInstance",
+      "id": "2C9DF9E7-045A-43D9-BA39-53A4FD8147C8"
     },
     {
-      "class": "group",
-      "id": "08FCDF9E-FCEC-4234-934C-6D87B21C40D5"
+      "class": "symbolInstance",
+      "id": "909F4F05-C210-47B3-AE95-2F48CA885C9F"
     }
   ],
   "name": "reCAPTCHA",
