@@ -1,7 +1,7 @@
 {
   "_class": "shapePath",
-  "booleanOperation": -1,
-  "do_objectID": "CA363C0C-41CC-4075-BB11-25087B266E52",
+  "booleanOperation": 0,
+  "do_objectID": "7C289005-50FE-45FA-AF5E-AFB6750F89A6",
   "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
@@ -17,7 +17,7 @@
     "constrainProportions": false,
     "height": 4.504030562942941,
     "width": 4.515555555555557,
-    "x": 0,
+    "x": 9.149836507936925,
     "y": -9.992007221626409e-16
   },
   "isFlippedHorizontal": false,
@@ -25,7 +25,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Path",
+  "name": "Fill 1",
   "nameIsFixed": false,
   "path": {
     "_class": "path",

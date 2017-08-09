@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "A6393ACB-216F-46C6-9C76-16292B0660A9",
+  "do_objectID": "A1F7A4E9-9296-4816-8989-CB3185DE0B3D",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,13 +14,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 4.50403056294294,
-    "width": 4.515555555555554,
-    "x": 0.1498888888888889,
-    "y": 0.3437472148348318
+    "height": 14.65636707087942,
+    "width": 13.66539206349226,
+    "x": 5.000052380952184,
+    "y": 5.343747214834831
   },
   "hasClickThrough": false,
-  "hasClippingMask": false,
+  "hasClippingMask": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -29,10 +29,18 @@
   "layers": [
     {
       "class": "shapePath",
-      "id": "CA363C0C-41CC-4075-BB11-25087B266E52"
+      "id": "7C289005-50FE-45FA-AF5E-AFB6750F89A6"
+    },
+    {
+      "class": "shapePath",
+      "id": "A8FE77E0-829D-4331-B7C8-EAC2DB4388B3"
+    },
+    {
+      "class": "shapePath",
+      "id": "72975C76-AA1C-49E1-BDD9-C2B42ADC1C87"
     }
   ],
-  "name": "Fill 1",
+  "name": "Combined Shape",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

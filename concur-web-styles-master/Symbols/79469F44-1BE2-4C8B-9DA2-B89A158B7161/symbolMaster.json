@@ -7,8 +7,8 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 9624,
-  "do_objectID": "710E1BE1-786D-45C5-BC6C-4AC344C71FC2",
+  "changeIdentifier": 9679,
+  "do_objectID": "79469F44-1BE2-4C8B-9DA2-B89A158B7161",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -27,7 +27,7 @@
     "y": -622
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -44,8 +44,16 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "0F3715D8-607B-41A2-87C5-807117F8D731"
+      "class": "shapeGroup",
+      "id": "B8832B05-926C-4875-9D7A-9D4C8D0CEF8F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A1F7A4E9-9296-4816-8989-CB3185DE0B3D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "00397416-60CA-449F-A2EE-1EE8993BF72A"
     }
   ],
   "name": "Icon/Biz-Office-Tech/Edit",

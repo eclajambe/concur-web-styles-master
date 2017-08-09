@@ -1,7 +1,7 @@
 {
   "_class": "shapePath",
   "booleanOperation": -1,
-  "do_objectID": "D6F3920C-27B2-4A9F-BAD9-A2F70F24E60B",
+  "do_objectID": "72975C76-AA1C-49E1-BDD9-C2B42ADC1C87",
   "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
@@ -18,14 +18,14 @@
     "height": 11.76014285714287,
     "width": 10.77751190476191,
     "x": 0,
-    "y": -1.77635683940025e-15
+    "y": 2.896224213736548
   },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Path",
+  "name": "Fill 4",
   "nameIsFixed": false,
   "path": {
     "_class": "path",
