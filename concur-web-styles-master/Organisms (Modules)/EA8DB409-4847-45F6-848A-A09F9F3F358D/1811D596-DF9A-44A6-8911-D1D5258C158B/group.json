@@ -26,20 +26,20 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "6F213917-AA29-48F1-9214-2E36EF79B4AB"
+      "class": "symbolInstance",
+      "id": "18FAB810-020F-413C-B087-8E1BCFF62C5C"
     },
     {
-      "class": "group",
-      "id": "76A08A36-2E29-4261-A955-C15E06392546"
+      "class": "symbolInstance",
+      "id": "DAC55DE4-A6F3-4B60-9415-7666B46DC2EF"
     },
     {
-      "class": "group",
-      "id": "EFA506E5-8ADB-4F1B-BBC6-29E44CC3301A"
+      "class": "symbolInstance",
+      "id": "F4073700-86E4-4CCC-BD97-85EF7B9963D8"
     },
     {
-      "class": "group",
-      "id": "97B067A9-7BB2-4708-93AC-0BE988774867"
+      "class": "symbolInstance",
+      "id": "B0D9096A-45D3-4218-B1ED-0528638389B0"
     }
   ],
   "name": "Social Icons",

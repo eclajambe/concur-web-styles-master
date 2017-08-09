@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 8365,
+  "changeIdentifier": 8363,
   "do_objectID": "55E08CCA-BF21-46F8-A34B-879B49F4A909",
   "exportOptions": {
     "_class": "exportOptions",
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -75,9 +75,6 @@
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
       }
-    },
-    "com.invisionlabs.library": {
-      "version": 1
     }
   },
   "verticalRulerData": {

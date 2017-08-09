@@ -38,7 +38,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 2170,
+    "height": 1523,
     "width": 1440,
     "x": -2104,
     "y": -298
@@ -49,7 +49,6 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      80
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -97,21 +96,6 @@
       "id": "C0376D86-9D68-4B3A-AE59-789ACF2FCAD7"
     }
   ],
-  "layout": {
-    "_class": "layoutGrid",
-    "columnWidth": 70,
-    "drawHorizontal": false,
-    "drawHorizontalLines": false,
-    "drawVertical": true,
-    "gutterHeight": 12,
-    "gutterWidth": 27.5,
-    "guttersOutside": true,
-    "horizontalOffset": 135,
-    "isEnabled": false,
-    "numberOfColumns": 12,
-    "rowHeightMultiplication": 5,
-    "totalWidth": 1170
-  },
   "name": "Components",
   "nameIsFixed": true,
   "resizesContent": false,

@@ -14,8 +14,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 105,
-    "x": 15,
+    "width": 120,
+    "x": 8,
     "y": 8
   },
   "horizontalSpacing": 0,
@@ -34,7 +34,7 @@
   "overrides": {
     "4285288C-A406-439D-90AB-A1EA5C143337": "Text..."
   },
-  "resizingConstraint": 18,
+  "resizingConstraint": 26,
   "resizingType": 2,
   "rotation": 0,
   "shouldBreakMaskChain": false,

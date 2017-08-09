@@ -42,14 +42,10 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "opacity": 0.25
-    },
+    "do_objectID": "736D0BD1-A27C-459B-8BC9-B2188570070C",
     "endDecorationType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "15D7D256-1841-4176-9D07-7C600D17FC11",
+    "sharedObjectID": "DFF81799-79B7-4A58-B0F3-3363E20DA55F",
     "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",

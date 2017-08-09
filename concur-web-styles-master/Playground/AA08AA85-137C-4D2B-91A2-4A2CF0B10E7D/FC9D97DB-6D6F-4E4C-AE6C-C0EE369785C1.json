@@ -31,12 +31,7 @@
   "name": "Module/Header Section/White Theme",
   "nameIsFixed": false,
   "overrides": {
-    "487B27E6-FE61-4C50-A9DC-346DDC3C60F7": "This is text",
-    "9C8083E8-9CE2-4B3A-8CCF-3DC05498E8D8": {
-      "CE33D199-CD5D-43F6-B1BA-750EACD57988": {
-        "symbolID": "8E494EE1-EFE6-4EBB-B5CE-031557B3A99D"
-      }
-    }
+    "487B27E6-FE61-4C50-A9DC-346DDC3C60F7": "This is the Header"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

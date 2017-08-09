@@ -26,19 +26,19 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "9F574CF7-5AD1-49D9-9AD5-8BCC6A759C03"
+      "class": "symbolInstance",
+      "id": "35A69A57-EBB9-4486-89AA-D6BF658D0F86"
     },
     {
-      "class": "group",
-      "id": "E77C7873-E972-426A-A982-32622D0345AC"
+      "class": "symbolInstance",
+      "id": "4AC45A8D-8AAB-45B5-9179-4ED582B8D87B"
     },
     {
-      "class": "group",
-      "id": "A7267318-85F7-470D-89BE-46CD9B077538"
+      "class": "symbolInstance",
+      "id": "123AD3DE-B86E-4B67-832C-4ED00C92D630"
     }
   ],
-  "name": " - Right Icon",
+  "name": "Small Button - Right Icon",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

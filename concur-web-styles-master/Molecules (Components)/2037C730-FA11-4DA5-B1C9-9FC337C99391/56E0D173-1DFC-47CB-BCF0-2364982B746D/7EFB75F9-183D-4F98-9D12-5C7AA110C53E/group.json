@@ -13,8 +13,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
-    "width": 200,
+    "height": 68,
+    "width": 848,
     "x": 0,
     "y": 50
   },
@@ -23,11 +23,23 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "B64E41FC-D3FB-4E1B-BB76-57C65C36C468"
+      "class": "symbolInstance",
+      "id": "FFC3A3E5-0AEE-4E2F-B6AF-10B57EE7D284"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C1BFA96F-1450-4C4E-AC81-5F6E62F30981"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BF5D9B52-C02E-4FFB-83BF-9B91D5563E9C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E7056B17-B3FE-4A52-B506-B2889A563290"
     }
   ],
   "name": "Row",
