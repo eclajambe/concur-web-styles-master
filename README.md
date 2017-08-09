@@ -4,18 +4,9 @@
 
 ### Plugins to download
 
-#### Needed
-
 1. [Craft by InVision](https://www.invisionapp.com/craft)
 2. [Auto Layout for Sketch](https://animaapp.github.io/) - Needed for dynamic buttons and layouts
-
-#### Recommended
-
-1. [Logo Fetcher](https://github.com/soulchild/sketch-logo-fetcher) - Add company logos without leaving Sketch!
-
-### Fonts needed
-
-1. [Roboto (Google Font)](https://fonts.google.com/specimen/Roboto) - Needed for Google's ReCaptcha symbol.
+3. [Logo Fetcher](https://github.com/soulchild/sketch-logo-fetcher) - (recommended) Add company logos without leaving Sketch!
 
 ---
 
