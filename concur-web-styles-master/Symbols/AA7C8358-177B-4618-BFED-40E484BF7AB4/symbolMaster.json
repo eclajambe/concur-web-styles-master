@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 14,
+  "changeIdentifier": 137,
   "do_objectID": "AA7C8358-177B-4618-BFED-40E484BF7AB4",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,11 +23,11 @@
     "constrainProportions": false,
     "height": 40,
     "width": 150,
-    "x": 2428,
+    "x": 1799,
     "y": 22
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -48,6 +48,21 @@
       "id": "C022881A-C928-4439-B546-AD8B4F56DCE3"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 10,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 2.5,
+    "guttersOutside": true,
+    "horizontalOffset": 360,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 150
+  },
   "name": "Mixin/Border/Primary",
   "nameIsFixed": true,
   "originalObjectID": "AA7C8358-177B-4618-BFED-40E484BF7AB4",

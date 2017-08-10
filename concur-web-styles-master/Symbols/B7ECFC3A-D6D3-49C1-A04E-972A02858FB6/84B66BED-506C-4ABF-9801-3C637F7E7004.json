@@ -30,6 +30,9 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Text/Large Button/Normal/White - Centered",
   "nameIsFixed": false,
+  "overrides": {
+    "206A6C86-EE81-4CE5-B1FC-509900ABD867": "Lorem Ipsum"
+  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

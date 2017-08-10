@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 22,
+  "changeIdentifier": 257,
   "do_objectID": "B44A33E0-FBD7-498C-9DFC-58CFAD7999BE",
   "exportOptions": {
     "_class": "exportOptions",
@@ -48,15 +48,11 @@
       "id": "B4573F2D-B70D-45A1-B398-89CF599AEE00"
     },
     {
-      "class": "symbolInstance",
-      "id": "5E30F8A2-3BA2-4D6A-9D35-1B1EF6C73DEF"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "0C929C1C-53F5-48BF-9754-B93234CF442B"
+      "class": "shapeGroup",
+      "id": "43F44E88-CC0A-49C7-ACD5-0D4E5DEDD9D1"
     }
   ],
-  "name": "Mixin/Container/Field",
+  "name": "Mixin/Container/Field/Static",
   "nameIsFixed": true,
   "originalObjectID": "B44A33E0-FBD7-498C-9DFC-58CFAD7999BE",
   "resizesContent": false,

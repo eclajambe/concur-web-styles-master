@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "CCFD6886-C68B-4B77-B27F-0DEFCAC62E8B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 601,
+    "x": 0,
+    "y": 94
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B3DF88D1-6227-4D59-9EFC-33F74EEF7737"
+    },
+    {
+      "class": "group",
+      "id": "B7FCA82C-76D6-4962-A1F8-3AC7A995209A"
+    },
+    {
+      "class": "group",
+      "id": "8155D00D-73C4-41E4-BED1-A2EC89A1EE9D"
+    },
+    {
+      "class": "group",
+      "id": "1467404C-0282-48C4-BD8E-A3FB16466F38"
+    },
+    {
+      "class": "group",
+      "id": "50390B63-8251-4177-838A-91B851A61F43"
+    }
+  ],
+  "name": "Small Button - Icon Left",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "spacing": 16,
+        "type": 1
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}

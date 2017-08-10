@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "B7FCA82C-76D6-4962-A1F8-3AC7A995209A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 105,
+    "x": 121,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "C740A0D2-D257-4014-A8CE-8E26E2A98E39"
+    },
+    {
+      "class": "group",
+      "id": "F5EE2659-5B3E-4221-A9E8-6046A2263D32"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2880F21E-9EE5-4238-800C-F635C033961C"
+    },
+    {
+      "class": "group",
+      "id": "5B431475-4417-4965-BEF2-4705E72D306D"
+    }
+  ],
+  "name": "Button/Small - Left Icon",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
