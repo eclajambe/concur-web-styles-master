@@ -15,7 +15,7 @@
     "constrainProportions": false,
     "height": 41,
     "width": 121,
-    "x": 274,
+    "x": 258,
     "y": 0
   },
   "horizontalSpacing": 0,
@@ -28,8 +28,8 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "Button/Small",
-  "nameIsFixed": false,
+  "name": "Button/Small/Filled Accent-3",
+  "nameIsFixed": true,
   "overrides": {
     "3ABFE271-BF1F-4D43-891F-AD662D08C4C0": {
       "023F30FA-A5B6-4104-8767-02072172E5DC": {

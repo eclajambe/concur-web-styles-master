@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 303,
+  "changeIdentifier": 394,
   "do_objectID": "B7ECFC3A-D6D3-49C1-A04E-972A02858FB6",
   "exportOptions": {
     "_class": "exportOptions",
@@ -48,11 +48,11 @@
       "id": "A2C9D98F-8ED2-45C8-87C8-66DBF1A8E402"
     },
     {
-      "class": "symbolInstance",
-      "id": "84B66BED-506C-4ABF-9801-3C637F7E7004"
+      "class": "text",
+      "id": "A7F75D2F-ACD5-41A9-BAF7-F265E15C0491"
     }
   ],
-  "name": "Button/Large",
+  "name": "Button/Large/Filled Default",
   "nameIsFixed": true,
   "originalObjectID": "B7ECFC3A-D6D3-49C1-A04E-972A02858FB6",
   "resizesContent": true,

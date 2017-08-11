@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 310,
+  "changeIdentifier": 425,
   "do_objectID": "EB4CE819-C36E-4624-9ACE-3285424A82F4",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,11 +23,11 @@
     "constrainProportions": false,
     "height": 41,
     "width": 121,
-    "x": 1796,
+    "x": 1925,
     "y": 822
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -41,18 +41,18 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "3ABFE271-BF1F-4D43-891F-AD662D08C4C0"
     },
     {
-      "class": "symbolInstance",
-      "id": "FFF920DB-7485-4E4E-995D-A93968E0DEF1"
+      "class": "text",
+      "id": "427893CE-2654-4024-8C05-C91F718D68E6"
     }
   ],
-  "name": "Button/Small",
+  "name": "Button/Small/Filled Primary",
   "nameIsFixed": true,
   "originalObjectID": "EB4CE819-C36E-4624-9ACE-3285424A82F4",
   "resizesContent": true,

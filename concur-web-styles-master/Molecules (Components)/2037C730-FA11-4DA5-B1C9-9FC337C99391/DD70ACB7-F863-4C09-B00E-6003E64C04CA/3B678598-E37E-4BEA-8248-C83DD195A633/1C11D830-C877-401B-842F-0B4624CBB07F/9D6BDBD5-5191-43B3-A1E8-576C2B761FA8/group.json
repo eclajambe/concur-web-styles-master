@@ -14,7 +14,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 41,
-    "width": 532,
+    "width": 637,
     "x": 0,
     "y": 41
   },
@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -39,7 +39,11 @@
     },
     {
       "class": "symbolInstance",
-      "id": "128DB32C-7B0C-4FA4-BC00-62EFC63A0CEB"
+      "id": "63588BA5-A997-4726-BCE9-3318BD43CB53"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F6A2F8A5-E3B9-4EB8-BE23-7CB4B33F9FFF"
     }
   ],
   "name": "Small Button",
@@ -58,7 +62,7 @@
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
         "align": 0,
-        "spacing": 16,
+        "spacing": 8,
         "type": 1
       },
       "kViewTypeKey": "ADModelStackView"

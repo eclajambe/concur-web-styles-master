@@ -34,6 +34,9 @@
   "overrides": {
     "023F30FA-A5B6-4104-8767-02072172E5DC": {
       "symbolID": ""
+    },
+    "7E449EE0-9AA2-44E9-9572-6826CDF5F3BF": {
+      "symbolID": "1810BB4D-BF1D-49AA-9D36-117913075C2D"
     }
   },
   "resizingConstraint": 63,

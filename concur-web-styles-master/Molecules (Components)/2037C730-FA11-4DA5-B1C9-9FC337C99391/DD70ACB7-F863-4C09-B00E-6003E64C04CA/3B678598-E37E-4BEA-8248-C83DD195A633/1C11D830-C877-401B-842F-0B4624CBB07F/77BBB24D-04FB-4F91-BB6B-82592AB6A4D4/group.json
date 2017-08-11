@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "77BBB24D-04FB-4F91-BB6B-82592AB6A4D4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 54,
+    "width": 867,
+    "x": 0,
+    "y": 106
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "437760EC-D46A-4E98-B62C-5FDCADE7D521"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4865D0DE-CA3E-4B2F-8A18-E6A169AB54E2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "14CFAF29-1C12-4B5C-964B-9EFC333D0C30"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B3D03D06-86CE-4D05-ACD2-6A1C064ADA50"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "29678E04-9842-4FE0-93EA-EC639459FCA2"
+    }
+  ],
+  "name": "Large Button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isCollapsing": 1,
+        "spacing": 8,
+        "type": 1
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}
