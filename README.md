@@ -4,10 +4,10 @@
 
 ### Plugins to download
 
-1. [Craft by InVision](https://www.invisionapp.com/craft)
+1. [Craft by InVision](https://www.invisionapp.com/craft) - single source of truth for all assets
 2. [Auto Layout for Sketch](https://animaapp.github.io/) - Needed for dynamic buttons and layouts
 3. [Logo Fetcher](https://github.com/soulchild/sketch-logo-fetcher) - (recommended) Add company logos without leaving Sketch!
-
+4. [Sketch Runner](https://www.sketchrunner.com) - (recommended) Helps manage and install pugins and provides handy shortcuts
 ---
 
 ## Tips for converting icons from Ai to Sketch
